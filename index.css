@@ -3,16 +3,16 @@
 	background-color: #FFB359;
 
 	h4{
-		style="color:white;"
+		color:white;
 	}
 
 
 	header{
-		background-color:#272299;
-		padding: 30px;
+		background-color:black;
+		padding: 2px;
 		text-align: center;
-		font-size: 35px;
-		color: white;
+		font-size: 20px;
+		text-color: white;
 	}
 
 
