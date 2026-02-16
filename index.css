@@ -2,6 +2,14 @@
 		font-family:myFont;
 		src:url('Assets/fonts/Bluetea.ttf');
 		}
+@font-face{
+	font-family:ninja;
+	src:url('Assets/fonts/ninjago.ttf');
+}
+@font-face{
+	font-family:cookie;
+	src:url('Assets/fonts/CookieRun_Bold.otf');
+}
 
 ul {
   list-style-type: none;
@@ -51,7 +59,14 @@ li.dropdown {
 		.dropdown:hover .dropbtn {
   background-color:#FFB359;
 }
-
+h1{
+	font-size:90px;
+	margin-left:40px;
+}
+h2{
+	font-size:40px;
+	margin-left:70px;
+}
 	
 body
 {
@@ -80,3 +95,10 @@ body
 
 
 }
+footer{
+		background-color:black;
+		padding: 2px;
+		text-align: center;
+		font-size: 25px;
+		text-color: white;
+	}
