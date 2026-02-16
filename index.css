@@ -10,6 +10,30 @@
 	font-family:cookie;
 	src:url('Assets/fonts/CookieRun_Bold.otf');
 }
+@font-face{
+	font-family:sp;
+	src:url('Assets/fonts/south_park.ttf');
+}
+@font-face{
+	font-family:gnsh;
+	src:url('Assets/fonts/zh-cn.ttf');
+}
+@font-face{
+	font-family:monke;
+	src:url('Assets/fonts/Tournedos_DEMO.otf');
+}
+@font-face{
+	font-family:hh;
+	src:url('Assets/fonts/CowboyCadaver.ttf');
+}
+@font-face{
+	font-family:zel;
+	src:url('Assets/fonts/Triforce.ttf');
+}
+@font-face{
+	font-family:sonic;
+	src:url('Assets/fonts/NiseSegaSonic.ttf');
+}
 
 ul {
   list-style-type: none;
