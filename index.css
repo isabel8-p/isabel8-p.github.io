@@ -47,14 +47,14 @@ li {
 }
 li a, .dropbtn {
   display: inline-block;
-  color: red;
+  color: #FFB359;
   font-family:"myFont";
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
 }
   li a:hover, .dropdown:hover .dropbtn {
-  background-color: red;
+  background-color: #FFB359;
 }
 li.dropdown {
   display: inline-block;
